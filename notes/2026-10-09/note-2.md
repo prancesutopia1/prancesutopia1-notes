@@ -1,6 +1,6 @@
-# Ideas — day 282
+# Log — day 282
 
-- reviewed sql notes
-- drafted a checklist
-- next: benchmark
-- seed: 79c04f72
+- reviewed typescript notes
+- drafted a design
+- next: write tests
+- seed: 2b59ff90

@@ -1,6 +1,6 @@
-# Todo — day 281
+# Log — day 281
 
-- reviewed algorithms notes
-- drafted a design
-- next: read docs
-- seed: 52eab63d
+- reviewed typescript notes
+- refactored a design
+- next: write tests
+- seed: 7282fc64

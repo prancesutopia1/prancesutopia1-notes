@@ -1,6 +1,6 @@
-# Ideas — day 283
+# Scratch — day 283
 
-- reviewed typescript notes
-- outlined a checklist
-- next: benchmark
-- seed: c5793f36
+- reviewed algorithms notes
+- refactored a script
+- next: add examples
+- seed: 50deb4c9
